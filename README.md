@@ -136,14 +136,14 @@ terraform destroy
 
 ## ✅ Key Learning Outcomes
 
-Build AWS networking using Terraform (VPC, subnet, IGW, route table)
+- Build AWS networking using Terraform (VPC, subnet, IGW, route table)
 
-Understand what makes a subnet “public” (route + association)
+- Understand what makes a subnet “public” (route + association)
 
-Create security groups using ingress rule resources
+- Create security groups using ingress rule resources
 
-Launch an EC2 instance inside a custom VPC
+- Launch an EC2 instance inside a custom VPC
 
-Use Terraform locals + tags (merge(local.common_tags, ...)) for clean governance
+- Use Terraform locals + tags (merge(local.common_tags, ...)) for clean governance
 
-Standard Terraform workflow (fmt, init, validate, plan, apply, destroy)
+- Standard Terraform workflow (fmt, init, validate, plan, apply, destroy)
